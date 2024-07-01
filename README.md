@@ -1,4 +1,3 @@
-Here's a concise README for the file "Loan Approval Prediction using Machine Learning.ipynb":
 
 ## Loan Approval Prediction using Machine Learning
 
